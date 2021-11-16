@@ -28,7 +28,8 @@ url: "https://blog.stexo.eu"
 github_username:  leostx
 
 
-theme: jekyll-theme-basically-basic
+#theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
   - jekyll-feed
