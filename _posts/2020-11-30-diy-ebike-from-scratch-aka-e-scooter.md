@@ -3,7 +3,8 @@ title: DIY Ebike from scratch aka e-scooter
 date: 2020-11-30T17:18:26+01:00
 layout: post
 permalink: /ebike/
-image: /wp-content/uploads/2020/11/ebike_p_mk3_03-1200x900.jpg?v=1606689595
+read_time: true
+image: https://stexo.eu/wp-content/uploads/2020/11/ebike_p_mk3_03-1200x900.jpg?v=1606689595
 categories:
   - Mechanical
 tags:
