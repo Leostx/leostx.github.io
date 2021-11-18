@@ -54,8 +54,17 @@ defaults:
       related: false
       show_date: true
 
+atom_feed:
+  hide: true
+
 footer:
   links:
+    - label: "Rss feed"
+      icon: "fab fa-fw fa-rss"
+      url: "https://blog.stexo.eu/feed.xml"
+    - label "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:blog@stexo.eu"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leostx"
