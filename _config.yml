@@ -62,12 +62,12 @@ footer:
     - label: "Rss feed"
       icon: "fas fa-fw fa-rss"
       url: "https://blog.stexo.eu/feed.xml"   
-    - label "Email"
-      icon: "fas fa-fw fa-adjust"
-      url: "https://stexo.eu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leostx"
+    - label "Email"
+      icon: "fas fa-fw fa-adjust"
+      url: "https://stexo.eu"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
