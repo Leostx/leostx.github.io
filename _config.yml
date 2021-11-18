@@ -18,21 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Leo Stexo
-email: blog@stexo.eu
-description: >- # this means to ignore newlines until "baseurl:"
+title			: Leo Stexo
+title_separator         : "|"
+email			: blog@stexo.eu
+description		: >- # this means to ignore newlines until "baseurl:"
   This is my personal project Blog. Here I am publishing the work on projects I am doing privately.
   Electronics is the main topic, but anything of interest will be possible. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.stexo.eu"
-github_username:  leostx
+baseurl			: "" # the subpath of your site, e.g. /blog
+url			: "https://blog.stexo.eu"
+github_username		:  leostx
 
 
 #theme: minima
 #remote_theme: mmistakes/jekyll-theme-basically-basic
 #remote_theme: mmistakes/jekyll-theme-hpstr
 #remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default"
 
 plugins:
   - jekyll-feed
