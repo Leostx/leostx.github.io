@@ -30,8 +30,8 @@ github_username:  leostx
 
 #theme: minima
 #remote_theme: mmistakes/jekyll-theme-basically-basic
-#remote_theme: mmistakes/jekyll-theme-hpstr
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: mmistakes/jekyll-theme-hpstr
+#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
   - jekyll-feed
