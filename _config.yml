@@ -29,7 +29,8 @@ github_username:  leostx
 
 
 #theme: minima
-remote_theme: mmistakes/jekyll-theme-basically-basic
+#remote_theme: mmistakes/jekyll-theme-basically-basic
+renote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
   - jekyll-feed
