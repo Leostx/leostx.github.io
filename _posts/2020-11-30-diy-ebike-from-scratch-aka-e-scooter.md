@@ -2,7 +2,7 @@
 title: DIY Ebike from scratch aka e-scooter
 date: 2020-11-30T17:18:26+01:00
 permalink: /ebike/
-image: https://stexo.eu/wp-content/uploads/2020/11/ebike_p_mk3_03-1200x900.jpg?v=1606689595
+image: /assets/images/ebike/ebike_p_mk3_04.jpg
 categories:
   - Mechanical
 tags:
@@ -23,7 +23,7 @@ tags:
   - vesc
 excerp: "A few months ago I got a Hub-Motor from a broken e-scooter, within a day I welded it on the back wheel of my bike. This was the beginning of a long journey on electrifying a bike."
 header:
-  overlay_image: {{ site.url }}{{ site.baseurl }}/assets/images/ebike/ebike_p_mk3_04.jpg
+  overlay_image: /assets/images/ebike/ebike_p_mk3_04.jpg
   overlay_filter: 0.5
 ---
 A few months ago I got a Hub-Motor from a broken e-scooter, within a day I welded it on the back wheel of my bike. This was the beginning of a long journey on electrifying a bike.
