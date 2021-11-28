@@ -50,8 +50,14 @@ I had to fiddle around quite a while to get the tolerances right, but in the end
 
 Finding the right design for the motor mount took way too long. The first iteration build with metal brackets failed badly. But in the end, I came up with a combination of aluminum end a 3d Printed mount. To align the pulleys properly, I had to figure out the right angle between the bike&#8217;s frame and the wheel. I added a tensioner consisting of two ball bearings to prevent the belt from skipping. To prevent the mount from slipping towards the axis I drilled a hole through the frame and the mount so that I could fix it with a bold.
 
-<img src="/assets/images/ebike/ebike_bd_mk2_04.jpg" alt"Failed steel brackets">
-<img src="/assets/images/ebike/ebike_bd_mk2_06.jpg" alt"Motor mount 3d model>
+<figure>
+  <img src="/assets/images/ebike/ebike_bd_mk2_04.jpg" alt"Failed steel brackets">
+  <figcaption>Failed steel brackets</figcaption>
+</figure>
+<figure>
+  <img src="/assets/images/ebike/ebike_bd_mk2_06.jpg" alt"Motor mount 3d model>
+  <figcaption>Motor mount 3d model</figcaption>
+</figure>
 <figure class="third">
   <img src="/assets/images/ebike/ebike_bd_mk2_11.jpg" alt="">
   <img src="/assets/images/ebike/ebike_bd_mk2_12.jpg" alt="">
@@ -70,7 +76,10 @@ To test things out I started with a 3d-Printed adapter, which worked well, besid
 I tensioned and rounded the bike’s wheel by myself, but due to a lack of equipment for a perfect result, I will have to bring it to a bike shop.  
 I had to enlarge the slot in the bike&#8217;s fork to fit the motor axis, this caused the motor to slip out of it from time to time, to solve this and give the axis some more stability I added a small metal piece on either side.
 
-<img src="/assets/images/ebike/ebike_hd_mk3_01.jpg" alt"Hub Motor Adapter">
+<figure>
+  <img src="/assets/images/ebike/ebike_hd_mk3_01.jpg" alt"Hub Motor Adapter">
+  <figcaption>Hub Motor Adapter</figcaption>
+</figure>
 <figure class="third">
   <img src="/assets/images/ebike/ebike_hd_mk3_02.jpg" alt="">
   <img src="/assets/images/ebike/ebike_hd_mk3_03.jpg" alt="">
@@ -103,7 +112,8 @@ With an Arduino and a simple OLED display, I&#8217;ve done a little telemetry sc
 When I first started this project I had no idea how long this would take. I didn&#8217;t do a lot of mechanical projects before, so this was kind of new terrain. It was an equally interesting and frustrating experience. I am quite happy that I didn&#8217;t give up and that now I&#8217;m in the possession of an electric bike to cruise around easily. I couldn&#8217;t fully test the range out by now, but it should be >20km with a maximum speed of around 30km/h.  
 In the future, I would like to add a main-battery driven taillight, a custom cruise control software, and some telemetry over Bluetooth.
 
-<img src="/assets/images/ebike/ebike_bd_mk2_04.jpg" alt"">
-<img src="/assets/images/ebike/ebike_p_mk3_04.jpg" alt"">
+<figure>
+  <img src="/assets/images/ebike/ebike_bd_mk2_04.jpg" alt"">
+</figure>
 
 --
