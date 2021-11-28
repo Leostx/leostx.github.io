@@ -63,7 +63,7 @@ footer:
       icon: "fas fa-fw fa-rss"
       url: "https://blog.stexo.eu/feed.xml"   
     - label "Mail"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-fw fa-rss"
       url: "mailto:blog@stexo.eu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
