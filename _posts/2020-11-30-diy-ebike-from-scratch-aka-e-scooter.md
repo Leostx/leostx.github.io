@@ -103,4 +103,7 @@ With an Arduino and a simple OLED display, I&#8217;ve done a little telemetry sc
 When I first started this project I had no idea how long this would take. I didn&#8217;t do a lot of mechanical projects before, so this was kind of new terrain. It was an equally interesting and frustrating experience. I am quite happy that I didn&#8217;t give up and that now I&#8217;m in the possession of an electric bike to cruise around easily. I couldn&#8217;t fully test the range out by now, but it should be >20km with a maximum speed of around 30km/h.  
 In the future, I would like to add a main-battery driven taillight, a custom cruise control software, and some telemetry over Bluetooth.
 
+<img src="/assets/images/ebike/ebike_bd_mk2_04.jpg" alt"">
 <img src="/assets/images/ebike/ebike_p_mk3_04.jpg" alt"">
+
+--
