@@ -21,6 +21,10 @@ tags:
   - scooter
   - scratch
   - vesc
+excerp: "A few months ago I got a Hub-Motor from a broken e-scooter, within a day I welded it on the back wheel of my bike. This was the beginning of a long journey on electrifying a bike."
+header:
+  overlay_image: /assets/images/ebike/ebike_p_mk3_04.jpg
+  overlay_filter: 0.5
 ---
 A few months ago I got a Hub-Motor from a broken e-scooter, within a day I welded it on the back wheel of my bike. This was the beginning of a long journey on electrifying a bike.
 
